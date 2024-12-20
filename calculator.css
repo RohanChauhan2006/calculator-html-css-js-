@@ -4,14 +4,14 @@ body {
   justify-content: center;
   align-items: center;
   height: 100vh;
-  background-color: #e0f7fa; /* Light cyan background */
+  background-color: #e0f7fa; 
 }
 
 .calculator {
-  border: 2px solid #00796b; /* Teal border */
+  border: 2px solid #00796b; 
   border-radius: 10px;
   padding: 20px;
-  background-color: #ffffff; /* White background for the calculator */
+  background-color: #ffffff; 
   box-shadow: 0 0 15px rgba(0, 0, 0, 0.2);
 }
 
@@ -20,10 +20,10 @@ body {
   text-align: right;
   margin-bottom: 15px;
   font-size: 28px;
-  border: 2px solid #00796b; /* Teal border for display */
+  border: 2px solid #00796b; 
   border-radius: 5px;
   padding: 10px;
-  background-color: #f1f8e9; /* Light green background for display */
+  background-color: #f1f8e9; 
 }
 
 .buttons {
